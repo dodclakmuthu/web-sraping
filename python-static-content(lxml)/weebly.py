@@ -2,8 +2,7 @@ import requests
 import re
 import json
 
-#new change
-
+#new ch
 def specialCharacterReplace(str):
     chars = {
         "ä": "a",
